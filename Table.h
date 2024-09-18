@@ -3,18 +3,18 @@
 class Table : public Furniture {
 private:
     int numOfLegs; //How many legs the table has
-    std::string tableMaterial; //The kind of material used to make the table (wood, plastic, metal, etc)
+    bool glossySheen; //The kind of material used to make the table (wood, plastic, metal, etc)
     std::string tableType; //The kind of table (desk, dining room, kitchen, etc)
     std::string shape; //round, square, rectangle
 
 
 public:
-    Table(std::string n, double p, int q, int legs, std::string c, std::string m, std::string qual, std::string material,
+    Table(std::string n, double p, int q, int legs, std::string c, std::string m, std::string qual, bool sheen,
     std::string type, std::string s)
-        : Furniture(n, p, q, c, m, qual), numOfLegs(legs), tableMaterial(material), tableType(type), shape(s) {}
+        : Furniture(n, p, q, c, m, qual), numOfLegs(legs), glossySheen(sheen), tableType(type), shape(s) {}
 
     //Constructor to create a table using the Furniture class
-    //Postconditions: All attributes of furniture are set. numOfLegs = legs, tableMaterial=material
+    //Postconditions: All attributes of furniture are set. numOfLegs = legs, glossySheen is true or false,
     //tableType = type, shape = s
     //@param n is the name of the furtniture (sofa, table, chair, etc)
     //@param p is the price of the furniture piece
@@ -23,7 +23,7 @@ public:
     //@param m is the material of the furniture
     //@param qual is the quality of the furniture
     //@param legs is the number of table legs
-    //@param material is the material used to make the table
+    //@param sheen is true/false
     //@param type is the kind of table
     //@param s is the shape of the table
 
@@ -32,7 +32,7 @@ public:
     //Function to return the number of table legs
     //Postconditions: The number of table legs is returned
 
-    std::string getTableMaterial() const { return tableMaterial; }
+    bool getGlossySheen() const { return glossySheen; }
     //Function to return the table material
     //Postconditions: The table material is returned
 
@@ -50,7 +50,7 @@ public:
     //Postconditions: numOfSeats is set to seats
     //@param legs is the number of new number of table legs
 
-    void setTableMaterial(const std::string& material) { tableMaterial = material; }
+    void setGlossySheen(const bool& sheen) { glossySheen = sheen; }
     //Function to set the table material
     //Postconditions: tableMaterial = material
     //@param material is the new material
@@ -68,7 +68,7 @@ public:
     void display() const override {
         Furniture::display();
         std::cout << "Number of Legs: " << numOfLegs << std::endl;
-        std::cout << "Table material: " << tableMaterial << std::endl;
+        std::cout << "Glossy Sheen: " << (glossySheen ? "Yes" : "No") << std::endl;
         std::cout << "Type of table: " << tableType << std::endl;
         std::cout << "Table shape: " << shape << std::endl;
     }
