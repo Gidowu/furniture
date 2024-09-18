@@ -5,7 +5,7 @@ private:
     int numOfDoors;        // Number of doors on the wardrobe
     bool hasMirror;        // Whether or not the wardrobe has a mirror
     bool hasDrawers;       // Whether or not the wardrobe has drawers
-    std::string finish;    // Finish of the wardrobe (e.g., Glossy, Matte)
+    std::string finish;    // Finish of the wardrobe 
 
 public:
     Wardrobe(std::string n, double p, int q, int doors, std::string c, std::string m, std::string qual, bool mirror, bool drawers, std::string fin)

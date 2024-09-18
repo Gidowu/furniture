@@ -2,10 +2,10 @@
 
 class Bed : public Furniture {
 private:
-    std::string size;       // Size of the bed (e.g., twin, queen, king)
+    std::string size;       // Size of the bed 
     bool hasHeadboard;      // Whether or not the bed has a headboard
     bool hasStorage;        // Whether or not the bed has storage underneath
-    std::string mattressType; // Type of mattress (e.g., foam, spring, hybrid)
+    std::string mattressType; // Type of mattress 
     bool isAdjustable;      // Whether or not the bed is adjustable
 
 public:
