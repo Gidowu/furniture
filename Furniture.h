@@ -89,13 +89,13 @@ public:
     //Postcondition: The furniture quality is set to q
     //@param q is the new quality of the furniture
 
-    void setPrice(double p) { price = p; }
+    void setPrice(const double& p) { price = p; }
     //Function to set the price of the furniture
     //Postcondition: The furniture price is set to p
     //@param p is the new price of the furniture
 
 
-    void setQuantity(int q) { quantity = q; }
+    void setQuantity(const int& q) { quantity = q; }
     //Function to set the quantity of furniture in stock
     //Postcondition: The furniture quantity is set to q
     //@param q is the quantity of furniture in stock
