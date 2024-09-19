@@ -16,7 +16,7 @@ $(TARGET): $(OBJECTS)
 	$(CXX) $(CXXFLAGS) -o $(TARGET) $(OBJECTS)
 
 # Compile main.cpp
-main.o: main.cpp Furniture.h Chair.h Table.h Sofa.h
+main.o: main.cpp Furniture.h Chair.h Table.h Sofa.h Bed.h Wardrobe.h
 	$(CXX) $(CXXFLAGS) -c main.cpp
 
 # Clean up object files and executable
