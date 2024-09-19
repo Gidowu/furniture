@@ -59,7 +59,7 @@ public:
     //Postconditions: removableCovers is set to Cov
     //@param cov is true or false
 
-     void cupholders(const bool& cup){cupholders = cup;}
+     void setCupholders(const bool& cup){cupholders = cup;}
     //Function to set whether or not the sofa has cupholders
     //Postconditions: cupholders is set to cup
     //@param cup is true or false

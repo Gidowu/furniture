@@ -6,14 +6,16 @@ private:
     bool hasMirror;        // Whether or not the wardrobe has a mirror
     bool hasDrawers;       // Whether or not the wardrobe has drawers
     std::string finish;    // Finish of the wardrobe 
+    double height;         //The height of the wardrobe
 
 public:
-    Wardrobe(std::string n, double p, int q, int doors, std::string c, std::string m, std::string qual, bool mirror, bool drawers, std::string fin)
-        : Furniture(n, p, q, c, m, qual), numOfDoors(doors), hasMirror(mirror), hasDrawers(drawers), finish(fin) {}
+    Wardrobe(std::string n, double p, int q, int doors, std::string c, std::string m, std::string qual, bool mirror, bool drawers, 
+    std::string fin, double h)
+        : Furniture(n, p, q, c, m, qual), numOfDoors(doors), hasMirror(mirror), hasDrawers(drawers), finish(fin), height(h) {}
 
     // Constructor to create a wardrobe using the Furniture class
     // Postconditions: All attributes of furniture are set, numOfDoors = doors, hasMirror = mirror,
-    // hasDrawers = drawers, finish = fin
+    // hasDrawers = drawers, finish = fin, height = h
     //@param n is the name of the furniture (wardrobe)
     //@param p is the price of the wardrobe
     //@param q is the quantity of wardrobes
@@ -24,6 +26,7 @@ public:
     //@param mirror determines whether the wardrobe has a mirror
     //@param drawers determines whether the wardrobe has drawers
     //@param fin is the finish of the wardrobe (e.g., Glossy, Matte)
+    //@param h is the height of the wardrobe
 
     int getNumOfDoors() const { return numOfDoors; }
     // Function to return the number of doors on the wardrobe
@@ -40,6 +43,10 @@ public:
     std::string getFinish() const { return finish; }
     // Function to return the finish of the wardrobe
     // Postconditions: Returns the finish (e.g., Glossy, Matte).
+
+    double getHeight() const {return height;}
+    // Function to return the height of the wardrobe
+    // Posttconditions: Returns the height of the wardrobe
 
     void setNumOfDoors(const int& doors) { numOfDoors = doors; }
     // Function to set the number of doors on the wardrobe
@@ -61,12 +68,18 @@ public:
     // Postconditions: finish = fin
     //@param fin is the finish of the wardrobe (e.g., Glossy, Matte)
 
+    void setHeight(const double& h) {height = h;}
+    //Function to set the height of the wardrobe
+    //Postconditions: height = h
+    //@param h is the height of the wardrobe
+
     void display() const override {
         Furniture::display();  // Display inherited attributes
         std::cout << "Number of Doors: " << numOfDoors << std::endl;
         std::cout << "Mirror: " << (hasMirror ? "Yes" : "No") << std::endl;
         std::cout << "Drawers: " << (hasDrawers ? "Yes" : "No") << std::endl;
         std::cout << "Finish: " << finish << std::endl;
+        std::cout << "Height: " << height << std::endl;
     }
     // Display method
     // Postcondition: All information about the wardrobe is returned
