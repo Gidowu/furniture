@@ -1,0 +1,600 @@
+Inventory ID: 1
+Name: Luxury Sofa, Category: Living Room, Material: Leather, Quality: High Quality, Price: $799.99, Quantity: 5
+Number of Seats: 3
+Upholstery Material: Velvet
+Removable Covers: Yes
+Cupholders: Yes
+Inventory ID: 2
+Name: Dining Table, Category: Dining, Material: Wood, Quality: Premium, Price: $399.99, Quantity: 3
+Number of Legs: 4
+Glossy Sheen: Yes
+Type of table: Dining Table
+Table shape: Rectangular
+Inventory ID: 3
+Name: Office Chair, Category: Office, Material: Plastic, Quality: Medium, Price: $149.99, Quantity: 10
+Armrest: Yes
+Cushion: No
+Type of chair: Armchair
+Wheels: Yes
+Inventory ID: 4
+Name: Classic Wardrobe, Category: Bedroom, Material: Wood, Quality: High, Price: $599.99, Quantity: 4
+Number of Doors: 3
+Mirror: Yes
+Drawers: No
+Finish: Glossy
+Height: 6.5
+Inventory ID: 5
+Name: Queen Size Bed, Category: Bedroom, Material: Metal, Quality: Medium, Price: $499.99, Quantity: 2
+Size: Queen
+Headboard: Yes
+Storage: Yes
+Mattress Type: Memory Foam
+Adjustable: No
+
+Displaying all furniture items:
+Inventory ID: 1
+Name: Luxury Sofa, Category: Living Room, Material: Leather, Quality: High Quality, Price: $799.99, Quantity: 5
+Number of Seats: 3
+Upholstery Material: Velvet
+Removable Covers: Yes
+Cupholders: Yes
+Inventory ID: 2
+Name: Dining Table, Category: Dining, Material: Wood, Quality: Premium, Price: $399.99, Quantity: 3
+Number of Legs: 4
+Glossy Sheen: Yes
+Type of table: Dining Table
+Table shape: Rectangular
+Inventory ID: 3
+Name: Office Chair, Category: Office, Material: Plastic, Quality: Medium, Price: $149.99, Quantity: 10
+Armrest: Yes
+Cushion: No
+Type of chair: Armchair
+Wheels: Yes
+Inventory ID: 4
+Name: Classic Wardrobe, Category: Bedroom, Material: Wood, Quality: High, Price: $599.99, Quantity: 4
+Number of Doors: 3
+Mirror: Yes
+Drawers: No
+Finish: Glossy
+Height: 6.5
+Inventory ID: 5
+Name: Queen Size Bed, Category: Bedroom, Material: Metal, Quality: Medium, Price: $499.99, Quantity: 2
+Size: Queen
+Headboard: Yes
+Storage: Yes
+Mattress Type: Memory Foam
+Adjustable: No
+Inventory ID: 6
+Name: Gaming Chair, Category: Gaming, Material: Mesh, Quality: High, Price: $299.99, Quantity: 5
+Armrest: Yes
+Cushion: Yes
+Type of chair: Office Chair
+Wheels: Yes
+Dynamic allocation test passed.
+Loading furniture from furniture_data.csv...
+Inventory ID: 7
+Name: Classic, Category: Living Room, Material: Plastic, Quality: Medium, Price: $2, Quantity: 772
+Number of Seats: 5
+Upholstery Material: Fabric
+Removable Covers: No
+Cupholders: No
+Inventory ID: 8
+Name: Classic, Category: Office, Material: Metal, Quality: Low, Price: $5, Quantity: 74
+Armrest: No
+Cushion: No
+Type of chair: Stool
+Wheels: No
+Inventory ID: 9
+Name: Comfort, Category: Living Room, Material: Fabric, Quality: High, Price: $7, Quantity: 808
+Number of Legs: 5
+Glossy Sheen: No
+Type of table: Dining
+Table shape: Rectangular
+Inventory ID: 10
+Name: Standard, Category: Bedroom, Material: Fabric, Quality: Low, Price: $6, Quantity: 547
+Size: King
+Headboard: No
+Storage: No
+Mattress Type: Spring
+Adjustable: No
+Inventory ID: 11
+Name: Premium, Category: Bedroom, Material: Metal, Quality: High, Price: $2, Quantity: 93
+Number of Doors: 5
+Mirror: No
+Drawers: No
+Finish: Glossy
+Height: 160
+Inventory ID: 12
+Name: Standard, Category: Living Room, Material: Fabric, Quality: High, Price: $3, Quantity: 360
+Armrest: No
+Cushion: No
+Type of chair: Office
+Wheels: No
+Inventory ID: 13
+Name: Comfort, Category: Bedroom, Material: Plastic, Quality: Low, Price: $9, Quantity: 916
+Number of Seats: 4
+Upholstery Material: Fabric
+Removable Covers: No
+Cupholders: No
+Inventory ID: 14
+Name: Premium, Category: Bedroom, Material: Glass, Quality: High, Price: $4, Quantity: 937
+Size: Queen
+Headboard: No
+Storage: No
+Mattress Type: Spring
+Adjustable: No
+Inventory ID: 15
+Name: Comfort, Category: Office, Material: Wood, Quality: Medium, Price: $4, Quantity: 689
+Number of Seats: 5
+Upholstery Material: Plastic
+Removable Covers: No
+Cupholders: No
+Inventory ID: 16
+Name: Premium, Category: Bedroom, Material: Glass, Quality: Low, Price: $4, Quantity: 221
+Number of Seats: 2
+Upholstery Material: Glass
+Removable Covers: No
+Cupholders: No
+Inventory ID: 17
+Name: Classic, Category: Office, Material: Metal, Quality: Medium, Price: $7, Quantity: 680
+Armrest: No
+Cushion: No
+Type of chair: Armchair
+Wheels: No
+Inventory ID: 18
+Name: Classic, Category: Bedroom, Material: Metal, Quality: Low, Price: $4, Quantity: 618
+Number of Doors: 4
+Mirror: No
+Drawers: No
+Finish: Matte
+Height: 182
+Inventory ID: 19
+Name: Luxury, Category: Living Room, Material: Wood, Quality: Medium, Price: $1, Quantity: 331
+Number of Legs: 4
+Glossy Sheen: No
+Type of table: Dining
+Table shape: Round
+Inventory ID: 20
+Name: Classic, Category: Bedroom, Material: Plastic, Quality: High, Price: $9, Quantity: 651
+Number of Seats: 5
+Upholstery Material: Plastic
+Removable Covers: No
+Cupholders: No
+Inventory ID: 21
+Name: Comfort, Category: Outdoor, Material: Glass, Quality: High, Price: $8, Quantity: 146
+Armrest: No
+Cushion: No
+Type of chair: Office
+Wheels: No
+Inventory ID: 22
+Name: Classic, Category: Outdoor, Material: Glass, Quality: Medium, Price: $4, Quantity: 63
+Size: Twin
+Headboard: No
+Storage: No
+Mattress Type: Hybrid
+Adjustable: No
+Inventory ID: 23
+Name: Luxury, Category: Bedroom, Material: Glass, Quality: High, Price: $5, Quantity: 157
+Number of Legs: 4
+Glossy Sheen: No
+Type of table: Coffee
+Table shape: Oval
+Inventory ID: 24
+Name: Luxury, Category: Outdoor, Material: Metal, Quality: Medium, Price: $3, Quantity: 71
+Number of Legs: 6
+Glossy Sheen: No
+Type of table: Study
+Table shape: Round
+Inventory ID: 25
+Name: Luxury, Category: Outdoor, Material: Glass, Quality: Low, Price: $6, Quantity: 742
+Number of Seats: 5
+Upholstery Material: Metal
+Removable Covers: No
+Cupholders: No
+Inventory ID: 26
+Name: Classic, Category: Bedroom, Material: Wood, Quality: Medium, Price: $2, Quantity: 594
+Number of Legs: 3
+Glossy Sheen: No
+Type of table: Dining
+Table shape: Square
+Inventory ID: 27
+Name: Comfort, Category: Living Room, Material: Glass, Quality: Medium, Price: $9, Quantity: 654
+Number of Legs: 3
+Glossy Sheen: No
+Type of table: Side
+Table shape: Square
+Inventory ID: 28
+Name: Classic, Category: Office, Material: Fabric, Quality: Low, Price: $3, Quantity: 618
+Size: Twin
+Headboard: No
+Storage: No
+Mattress Type: Spring
+Adjustable: No
+Inventory ID: 29
+Name: Premium, Category: Living Room, Material: Plastic, Quality: Medium, Price: $8, Quantity: 814
+Number of Seats: 4
+Upholstery Material: Fabric
+Removable Covers: No
+Cupholders: No
+Inventory ID: 30
+Name: Premium, Category: Bedroom, Material: Fabric, Quality: Medium, Price: $6, Quantity: 368
+Number of Doors: 4
+Mirror: No
+Drawers: No
+Finish: Matte
+Height: 195
+Inventory ID: 31
+Name: Comfort, Category: Living Room, Material: Glass, Quality: Medium, Price: $3, Quantity: 96
+Number of Legs: 3
+Glossy Sheen: No
+Type of table: Study
+Table shape: Round
+Inventory ID: 32
+Name: Comfort, Category: Office, Material: Glass, Quality: High, Price: $5, Quantity: 273
+Number of Legs: 6
+Glossy Sheen: No
+Type of table: Dining
+Table shape: Oval
+Inventory ID: 33
+Name: Luxury, Category: Living Room, Material: Metal, Quality: High, Price: $1, Quantity: 293
+Number of Legs: 4
+Glossy Sheen: No
+Type of table: Coffee
+Table shape: Square
+Inventory ID: 34
+Name: Comfort, Category: Living Room, Material: Metal, Quality: High, Price: $8, Quantity: 417
+Size: King
+Headboard: No
+Storage: No
+Mattress Type: Spring
+Adjustable: No
+Inventory ID: 35
+Name: Luxury, Category: Living Room, Material: Glass, Quality: Medium, Price: $4, Quantity: 225
+Number of Legs: 3
+Glossy Sheen: No
+Type of table: Side
+Table shape: Round
+Inventory ID: 36
+Name: Comfort, Category: Living Room, Material: Wood, Quality: High, Price: $4, Quantity: 774
+Armrest: No
+Cushion: No
+Type of chair: Stool
+Wheels: No
+Inventory ID: 37
+Name: Classic, Category: Living Room, Material: Glass, Quality: Low, Price: $4, Quantity: 499
+Armrest: No
+Cushion: No
+Type of chair: Office
+Wheels: No
+Inventory ID: 38
+Name: Premium, Category: Bedroom, Material: Wood, Quality: High, Price: $8, Quantity: 479
+Number of Legs: 3
+Glossy Sheen: No
+Type of table: Study
+Table shape: Square
+Inventory ID: 39
+Name: Luxury, Category: Bedroom, Material: Glass, Quality: High, Price: $9, Quantity: 294
+Number of Legs: 5
+Glossy Sheen: No
+Type of table: Dining
+Table shape: Round
+Inventory ID: 40
+Name: Classic, Category: Office, Material: Glass, Quality: Medium, Price: $1, Quantity: 893
+Armrest: No
+Cushion: No
+Type of chair: Stool
+Wheels: No
+Inventory ID: 41
+Name: Comfort, Category: Living Room, Material: Plastic, Quality: Low, Price: $4, Quantity: 663
+Number of Seats: 2
+Upholstery Material: Wood
+Removable Covers: No
+Cupholders: No
+Inventory ID: 42
+Name: Standard, Category: Outdoor, Material: Wood, Quality: Low, Price: $5, Quantity: 650
+Number of Doors: 4
+Mirror: No
+Drawers: No
+Finish: Matte
+Height: 186
+Inventory ID: 43
+Name: Luxury, Category: Office, Material: Fabric, Quality: Medium, Price: $6, Quantity: 981
+Number of Seats: 1
+Upholstery Material: Fabric
+Removable Covers: No
+Cupholders: No
+Inventory ID: 44
+Name: Comfort, Category: Living Room, Material: Glass, Quality: Low, Price: $2, Quantity: 108
+Size: Queen
+Headboard: No
+Storage: No
+Mattress Type: Spring
+Adjustable: No
+Inventory ID: 45
+Name: Comfort, Category: Office, Material: Fabric, Quality: High, Price: $5, Quantity: 502
+Number of Doors: 1
+Mirror: No
+Drawers: No
+Finish: Glossy
+Height: 189
+Inventory ID: 46
+Name: Comfort, Category: Office, Material: Plastic, Quality: Medium, Price: $3, Quantity: 916
+Armrest: No
+Cushion: No
+Type of chair: Office
+Wheels: No
+Inventory ID: 47
+Name: Comfort, Category: Bedroom, Material: Fabric, Quality: Low, Price: $5, Quantity: 307
+Armrest: No
+Cushion: No
+Type of chair: Office
+Wheels: No
+Inventory ID: 48
+Name: Comfort, Category: Office, Material: Glass, Quality: High, Price: $1, Quantity: 53
+Number of Legs: 4
+Glossy Sheen: No
+Type of table: Coffee
+Table shape: Square
+Inventory ID: 49
+Name: Classic, Category: Office, Material: Plastic, Quality: High, Price: $7, Quantity: 313
+Size: King
+Headboard: No
+Storage: No
+Mattress Type: Hybrid
+Adjustable: No
+Inventory ID: 50
+Name: Classic, Category: Outdoor, Material: Fabric, Quality: Medium, Price: $8, Quantity: 543
+Armrest: No
+Cushion: No
+Type of chair: Office
+Wheels: No
+Inventory ID: 51
+Name: Comfort, Category: Living Room, Material: Metal, Quality: Medium, Price: $4, Quantity: 162
+Size: King
+Headboard: No
+Storage: No
+Mattress Type: Spring
+Adjustable: No
+Inventory ID: 52
+Name: Classic, Category: Office, Material: Wood, Quality: Medium, Price: $3, Quantity: 328
+Armrest: No
+Cushion: No
+Type of chair: Office
+Wheels: No
+Inventory ID: 53
+Name: Premium, Category: Living Room, Material: Fabric, Quality: Low, Price: $7, Quantity: 946
+Number of Doors: 4
+Mirror: No
+Drawers: No
+Finish: Matte
+Height: 210
+Inventory ID: 54
+Name: Luxury, Category: Office, Material: Plastic, Quality: Medium, Price: $2, Quantity: 633
+Number of Legs: 3
+Glossy Sheen: No
+Type of table: Side
+Table shape: Rectangular
+Inventory ID: 55
+Name: Premium, Category: Living Room, Material: Wood, Quality: High, Price: $3, Quantity: 126
+Number of Seats: 3
+Upholstery Material: Fabric
+Removable Covers: No
+Cupholders: No
+Inventory ID: 56
+Name: Premium, Category: Outdoor, Material: Plastic, Quality: High, Price: $7, Quantity: 87
+Armrest: No
+Cushion: No
+Type of chair: Office
+Wheels: No
+Inventory ID: 57
+Name: Comfort, Category: Living Room, Material: Metal, Quality: Medium, Price: $1, Quantity: 492
+Number of Seats: 1
+Upholstery Material: Glass
+Removable Covers: No
+Cupholders: No
+Inventory ID: 58
+Name: Standard, Category: Office, Material: Plastic, Quality: High, Price: $5, Quantity: 501
+Number of Legs: 5
+Glossy Sheen: No
+Type of table: Side
+Table shape: Oval
+Inventory ID: 59
+Name: Premium, Category: Living Room, Material: Glass, Quality: High, Price: $3, Quantity: 632
+Armrest: No
+Cushion: No
+Type of chair: Office
+Wheels: No
+Inventory ID: 60
+Name: Standard, Category: Living Room, Material: Plastic, Quality: Low, Price: $6, Quantity: 79
+Number of Seats: 5
+Upholstery Material: Fabric
+Removable Covers: No
+Cupholders: No
+Inventory ID: 61
+Name: Classic, Category: Outdoor, Material: Plastic, Quality: Medium, Price: $6, Quantity: 505
+Size: King
+Headboard: No
+Storage: No
+Mattress Type: Spring
+Adjustable: No
+Inventory ID: 62
+Name: Luxury, Category: Living Room, Material: Plastic, Quality: High, Price: $6, Quantity: 355
+Size: King
+Headboard: No
+Storage: No
+Mattress Type: Memory Foam
+Adjustable: No
+Inventory ID: 63
+Name: Standard, Category: Living Room, Material: Plastic, Quality: High, Price: $9, Quantity: 754
+Size: King
+Headboard: No
+Storage: No
+Mattress Type: Spring
+Adjustable: No
+Inventory ID: 64
+Name: Classic, Category: Bedroom, Material: Metal, Quality: Medium, Price: $8, Quantity: 542
+Number of Doors: 5
+Mirror: No
+Drawers: No
+Finish: Matte
+Height: 199
+Inventory ID: 65
+Name: Standard, Category: Bedroom, Material: Wood, Quality: Medium, Price: $6, Quantity: 787
+Number of Seats: 3
+Upholstery Material: Glass
+Removable Covers: No
+Cupholders: No
+Inventory ID: 66
+Name: Comfort, Category: Living Room, Material: Wood, Quality: Medium, Price: $5, Quantity: 359
+Number of Legs: 6
+Glossy Sheen: No
+Type of table: Coffee
+Table shape: Oval
+Inventory ID: 67
+Name: Premium, Category: Living Room, Material: Glass, Quality: High, Price: $3, Quantity: 632
+Armrest: No
+Cushion: No
+Type of chair: Office
+Wheels: No
+Inventory ID: 68
+Name: Comfort, Category: Office, Material: Glass, Quality: Low, Price: $3, Quantity: 354
+Size: Twin
+Headboard: No
+Storage: No
+Mattress Type: Hybrid
+Adjustable: No
+Inventory ID: 69
+Name: Standard, Category: Office, Material: Metal, Quality: High, Price: $6, Quantity: 348
+Number of Legs: 6
+Glossy Sheen: No
+Type of table: Side
+Table shape: Round
+Inventory ID: 70
+Name: Classic, Category: Living Room, Material: Fabric, Quality: Medium, Price: $3, Quantity: 159
+Number of Seats: 2
+Upholstery Material: Glass
+Removable Covers: No
+Cupholders: No
+Inventory ID: 71
+Name: Premium, Category: Bedroom, Material: Fabric, Quality: Medium, Price: $1, Quantity: 337
+Number of Doors: 1
+Mirror: No
+Drawers: No
+Finish: Glossy
+Height: 207
+Inventory ID: 72
+Name: Luxury, Category: Office, Material: Fabric, Quality: Medium, Price: $4, Quantity: 304
+Number of Seats: 3
+Upholstery Material: Fabric
+Removable Covers: No
+Cupholders: No
+Inventory ID: 73
+Name: Classic, Category: Office, Material: Plastic, Quality: Low, Price: $6, Quantity: 134
+Size: Queen
+Headboard: No
+Storage: No
+Mattress Type: Spring
+Adjustable: No
+Inventory ID: 74
+Name: Classic, Category: Bedroom, Material: Plastic, Quality: Medium, Price: $4, Quantity: 340
+Size: Twin
+Headboard: No
+Storage: No
+Mattress Type: Spring
+Adjustable: No
+Inventory ID: 75
+Name: Comfort, Category: Office, Material: Metal, Quality: Low, Price: $1, Quantity: 90
+Armrest: No
+Cushion: No
+Type of chair: Office
+Wheels: No
+Inventory ID: 76
+Name: Luxury, Category: Bedroom, Material: Fabric, Quality: Medium, Price: $2, Quantity: 116
+Armrest: No
+Cushion: No
+Type of chair: Office
+Wheels: No
+Inventory ID: 77
+Name: Standard, Category: Office, Material: Fabric, Quality: Medium, Price: $4, Quantity: 352
+Size: King
+Headboard: No
+Storage: No
+Mattress Type: Hybrid
+Adjustable: No
+Inventory ID: 78
+Name: Classic, Category: Living Room, Material: Metal, Quality: Medium, Price: $9, Quantity: 240
+Size: Twin
+Headboard: No
+Storage: No
+Mattress Type: Spring
+Adjustable: No
+Inventory ID: 79
+Name: Comfort, Category: Office, Material: Glass, Quality: Low, Price: $5, Quantity: 148
+Number of Seats: 3
+Upholstery Material: Glass
+Removable Covers: No
+Cupholders: No
+Inventory ID: 80
+Name: Premium, Category: Office, Material: Fabric, Quality: Medium, Price: $9, Quantity: 751
+Number of Legs: 4
+Glossy Sheen: No
+Type of table: Coffee
+Table shape: Square
+Inventory ID: 81
+Name: Comfort, Category: Bedroom, Material: Wood, Quality: Low, Price: $4, Quantity: 64
+Number of Doors: 1
+Mirror: No
+Drawers: No
+Finish: Matte
+Height: 182
+Inventory ID: 82
+Name: Comfort, Category: Office, Material: Wood, Quality: Medium, Price: $9, Quantity: 387
+Armrest: No
+Cushion: No
+Type of chair: Office
+Wheels: No
+Inventory ID: 83
+Name: Standard, Category: Living Room, Material: Plastic, Quality: Low, Price: $8, Quantity: 116
+Armrest: No
+Cushion: No
+Type of chair: Stool
+Wheels: No
+Inventory ID: 84
+Name: Classic, Category: Office, Material: Fabric, Quality: Medium, Price: $2, Quantity: 246
+Armrest: No
+Cushion: No
+Type of chair: Stool
+Wheels: No
+Inventory ID: 85
+Name: Comfort, Category: Living Room, Material: Plastic, Quality: Medium, Price: $9, Quantity: 142
+Size: King
+Headboard: No
+Storage: No
+Mattress Type: Spring
+Adjustable: No
+Inventory ID: 86
+Name: Classic, Category: Living Room, Material: Fabric, Quality: Medium, Price: $3, Quantity: 159
+Number of Seats: 2
+Upholstery Material: Glass
+Removable Covers: No
+Cupholders: No
+Inventory ID: 87
+Name: Comfort, Category: Bedroom, Material: Wood, Quality: Low, Price: $4, Quantity: 64
+Number of Doors: 1
+Mirror: No
+Drawers: No
+Finish: Matte
+Height: 182
+Inventory ID: 88
+Name: Classic, Category: Living Room, Material: Fabric, Quality: High, Price: $3, Quantity: 593
+Number of Legs: 6
+Glossy Sheen: No
+Type of table: Coffee
+Table shape: Oval
+Inventory ID: 89
+Name: Classic, Category: Office, Material: Plastic, Quality: Medium, Price: $3, Quantity: 130
+Number of Legs: 6
+Glossy Sheen: No
+Type of table: Coffee
+Table shape: Round
+All tests passed successfully!
